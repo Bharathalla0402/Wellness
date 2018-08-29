@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.6.0)
+  - CardIO (5.4.1)
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.5.0):
+    - GoogleMaps (= 2.5.0)
+    - GooglePlaces (= 2.5.0)
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - GooglePlacesSearchController (0.1.7)
+  - IQKeyboardManagerSwift (5.0.7)
+  - LCBannerView (2.1.1):
+    - SDWebImage (~> 3.7.6)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - RaisePlaceholder (1.0.3)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - Stripe (12.1.0)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - GooglePlacePicker
+  - GooglePlaces
+  - GooglePlacesSearchController
+  - IQKeyboardManagerSwift
+  - LCBannerView
+  - PayPal-iOS-SDK
+  - RaisePlaceholder
+  - SDWebImage
+  - Stripe
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlacePicker: 1573e644ab54564d95c2643edc0f29091609e966
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  GooglePlacesSearchController: 0ac4fedf1582d2e44329c417a6eed80ccf62d716
+  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
+  LCBannerView: 072c732ad7a2136e96c893e24cb650295c6c2635
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  RaisePlaceholder: e77c8565f556e25659bdf1b9a77647a952b8cb70
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  Stripe: de8bffa8e6813f678d526c52f416fe224141fa09
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: cdea6239d6851d11f0d42d01ea5010c319ce0dcf
+
+COCOAPODS: 1.2.0
